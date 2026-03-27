@@ -1,4 +1,4 @@
-📌 Project Overview
+Project Overview
 
 This project is an interactive Spotify Data Analytics Dashboard built using Power BI.
 It analyzes music streaming data to uncover trends in song popularity, artist performance, and user listening behavior.
@@ -7,13 +7,13 @@ The dashboard helps transform raw Spotify data into meaningful insights through 
 
 🖼️ Dashboard Preview
 
-⚠️ Upload your screenshots in a folder named images and replace file names below.
+ Upload your screenshots in a folder named images and replace file names below.
 
-🔹 Main Dashboard
+ Main Dashboard
 
-🔹 Artist Analysis
+ Artist Analysis
 
-🔹 Genre Trends
+ Genre Trends
 
 🎯 Objectives
 📈 Analyze song popularity over time
